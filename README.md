@@ -1,1 +1,1 @@
-# POD_Automation
+# Full step-by-step setup guide
